@@ -1,0 +1,7 @@
+// temp
+
+if saved
+	This file saved correctly, you will have access to it later. The recall task will need specific information from this story, so there is no need to rehearse.
+
+if not saved
+	Sorry, this file failed to save. A future recall task will need specific information from the story so it is advised to rehearse information from the story.
